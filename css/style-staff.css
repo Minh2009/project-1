@@ -1,0 +1,21 @@
+.cot
+{
+    width: 300px;
+    text-align: center;
+}
+
+.dong
+{
+    font-size: 15px;
+
+}
+
+.warning
+{
+    background-color: red;
+}
+
+.checked-box
+{
+    background-color: blue;
+}
